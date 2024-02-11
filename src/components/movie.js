@@ -1,4 +1,3 @@
-//https://www.upbeatcode.com/react/how-to-play-video-in-react/
 import React from 'react';
 import './movie.css';
 

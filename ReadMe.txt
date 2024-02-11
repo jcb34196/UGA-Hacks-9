@@ -7,4 +7,6 @@ Tools utilized:
 VS code, Node.js 
 
 Problems experienced:
-
+ Had issues when submitting the form in addMovie.js. Solve the issue by
+ stoping the page from reloading everytime the submit button triggered the on submit action by
+ using prevent default.
