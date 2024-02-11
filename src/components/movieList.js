@@ -6,8 +6,7 @@ import './movie.css';
 import './card.css';
 
 const movieList = (props) => {
-   // console.log(props.movies)
-    console.log(props.movies.length)
+    
     return(
     <Card className="movie">
         <ul>

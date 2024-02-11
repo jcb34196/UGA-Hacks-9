@@ -26,7 +26,7 @@ const addMovieHandler = event => {
     setEnteredGenre('');
     console.log(newMovie); 
     props.onAddMovie(newMovie);
-    console.log("creamy")
+    console.log("cream")
     
 }
 return(
